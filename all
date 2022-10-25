@@ -1,1 +1,7 @@
+magnum::amqp_password
+magnum::amqp_ssl_key_password
+magnum::db::postgresql::password
+magnum::keystone::auth::password
 magnum::keystone::authtoken::password
+magnum::keystone::domain::domain_password
+magnum::keystone::keystone_auth::password
